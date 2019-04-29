@@ -1,0 +1,7 @@
+F:\GrandCircus\Documents\Labs\Cap1PigLatin\Cap1PigLatin\bin\Debug\Cap1PigLatin.exe.config
+F:\GrandCircus\Documents\Labs\Cap1PigLatin\Cap1PigLatin\bin\Debug\Cap1PigLatin.exe
+F:\GrandCircus\Documents\Labs\Cap1PigLatin\Cap1PigLatin\bin\Debug\Cap1PigLatin.pdb
+F:\GrandCircus\Documents\Labs\Cap1PigLatin\Cap1PigLatin\obj\Debug\Cap1PigLatin.csprojAssemblyReference.cache
+F:\GrandCircus\Documents\Labs\Cap1PigLatin\Cap1PigLatin\obj\Debug\Cap1PigLatin.csproj.CoreCompileInputs.cache
+F:\GrandCircus\Documents\Labs\Cap1PigLatin\Cap1PigLatin\obj\Debug\Cap1PigLatin.exe
+F:\GrandCircus\Documents\Labs\Cap1PigLatin\Cap1PigLatin\obj\Debug\Cap1PigLatin.pdb

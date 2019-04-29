@@ -106,6 +106,7 @@ namespace Cap1PigLatin
 
                     }
                     Console.WriteLine(newLine);
+                    newLine = "";
 
 
                 }
